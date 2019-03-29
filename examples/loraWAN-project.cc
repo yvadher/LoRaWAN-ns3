@@ -35,10 +35,10 @@ using namespace lorawan;
 NS_LOG_COMPONENT_DEFINE ("ComplexLorawanNetworkExample");
 
 // Network settings
-int nDevices = 200;
-int nGateways = 2;
-double radius = 7500;
-double simulationTime = 600;
+int nDevices = 500;
+int nGateways = 1;
+double radius = 15000;
+double simulationTime = 1000;
 
 // Channel model
 bool realisticChannelModel = false;
