@@ -164,7 +164,6 @@ void
 LoraPacketTracker::PrintPerformance (Time start, Time stop)
 {
   NS_LOG_FUNCTION (this);
-  std::cout<<"Came here!!!!!!"<<std::endl;
 
   CountRetransmissions (start, stop, m_macPacketTracker,
                         m_reTransmissionTracker, m_packetTracker);
@@ -324,10 +323,10 @@ LoraPacketTracker::CountRetransmissions (Time transient, Time simulationTime, Ma
       avgAckDelay = ((ackDelaySum) / packetsOutsideTransient).GetSeconds ();
     }
 
-  // Print legend
-  std::cout <<
-    "Successful with 1 | Successful with 2 | Successful with 3 | Successful with 4 | Successful with 5 | Successful with 6 | Successful with 7 | Successful with 8 | Failed after 1 | Failed after 2 | Failed after 3 | Failed after 4 | Failed after 5 | Failed after 6 | Failed after 7 | Failed after 8 | Average Delay | Average ACK Delay | Total Retransmission amounts || PHY Total | PHY Successful | PHY Interfered | PHY No More Receivers | PHY Under Sensitivity | PHY Lost Because TX" <<
-    std::endl;
+  // // Print legend
+  // std::cout <<
+  //   "Successful with 1 | Successful with 2 | Successful with 3 | Successful with 4 | Successful with 5 | Successful with 6 | Successful with 7 | Successful with 8 | Failed after 1 | Failed after 2 | Failed after 3 | Failed after 4 | Failed after 5 | Failed after 6 | Failed after 7 | Failed after 8 | Average Delay | Average ACK Delay | Total Retransmission amounts || PHY Total | PHY Successful | PHY Interfered | PHY No More Receivers | PHY Under Sensitivity | PHY Lost Because TX" <<
+  //   std::endl;
   // PrintVector (successfulReTxAmounts);
   // std::cout << " | "<<std::endl;
   // PrintVector (failedReTxAmounts);
@@ -338,8 +337,13 @@ LoraPacketTracker::CountRetransmissions (Time transient, Time simulationTime, Ma
   // PrintSumRetransmissions (totalReTxAmounts);
   // std::cout << " || "<<std::endl;
 
-  std::cout<<"PHY Total | PHY Successful | PHY Interfered | PHY No More Receivers | PHY Under Sensitivity | PHY Lost Because TX"<<std::endl;
-  PrintVector (performancesAmounts);
+  // PrintVector (performancesAmounts);
+  std::cout<<"PHY Total: "<< performancesAmounts.at(0) <<std::endl;
+  std::cout<<"PHY Successful: "<< performancesAmounts.at(1)<<std::endl;
+  std::cout<<"PHY Interfered: "<< performancesAmounts.at(2)<<std::endl;
+  std::cout<<"PHY No More Receivers: "<< performancesAmounts.at(3)<<std::endl;
+  std::cout<<"PHY Under Sensitivity: "<< performancesAmounts.at(4)<<std::endl;
+  std::cout<<"PHY Lost Because TX: "<< performancesAmounts.at(5)<<std::endl;
   std::cout << std::endl;
 }
 

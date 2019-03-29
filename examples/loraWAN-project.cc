@@ -35,8 +35,8 @@ using namespace lorawan;
 NS_LOG_COMPONENT_DEFINE ("ComplexLorawanNetworkExample");
 
 // Network settings
-int nDevices = 500;
-int nGateways = 1;
+int nDevices = 100;
+int nGateways = 2;
 double radius = 15000;
 double simulationTime = 1000;
 
