@@ -16,3 +16,15 @@ def build(bld):
 
     obj = bld.create_ns3_program('loraWAN-project', ['lorawan'])
     obj.source = 'loraWAN-project.cc'
+
+    obj = bld.create_ns3_program('lora-distance-variable', ['lorawan'])
+    obj.source = 'lora-distance-variable.cc'
+
+    obj = bld.create_ns3_program('lora-nodes-variable', ['lorawan'])
+    obj.source = 'lora-nodes-variable.cc'
+
+    obj = bld.create_ns3_program('lora-gateway-variable', ['lorawan'])
+    obj.source = 'lora-gateway-variable.cc'
+
+    obj = bld.create_ns3_program('lora-simulation', ['lorawan'])
+    obj.source = 'lora-simulation.cc'

@@ -315,13 +315,13 @@ LoraPacketTracker::CountRetransmissions (Time transient, Time simulationTime, Ma
         }
     }
 
-  double avgDelay = 0;
-  double avgAckDelay = 0;
-  if (packetsOutsideTransient != 0)
-    {
-      avgDelay = (delaySum / packetsOutsideTransient).GetSeconds ();
-      avgAckDelay = ((ackDelaySum) / packetsOutsideTransient).GetSeconds ();
-    }
+  // double avgDelay = 0;
+  // double avgAckDelay = 0;
+  // if (packetsOutsideTransient != 0)
+  //   {
+  //     avgDelay = (delaySum / packetsOutsideTransient).GetSeconds ();
+  //     avgAckDelay = ((ackDelaySum) / packetsOutsideTransient).GetSeconds ();
+  //   }
 
   // // Print legend
   // std::cout <<
@@ -331,8 +331,8 @@ LoraPacketTracker::CountRetransmissions (Time transient, Time simulationTime, Ma
   // std::cout << " | "<<std::endl;
   // PrintVector (failedReTxAmounts);
   // std::cout << " | "<<std::endl;
-  std::cout << avgDelay << " "<<std::endl;
-  std::cout << avgAckDelay << " "<<std::endl;
+  // std::cout << avgDelay << " "<<std::endl;
+  // std::cout << avgAckDelay << " "<<std::endl;
   // std::cout << "| "<<std::endl;
   // PrintSumRetransmissions (totalReTxAmounts);
   // std::cout << " || "<<std::endl;

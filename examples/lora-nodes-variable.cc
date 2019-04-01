@@ -1,3 +1,4 @@
+
 /*
  * This script simulates a complex scenario with multiple gateways and end
  * devices. The metric of interest for this script is the throughput of the
@@ -35,9 +36,9 @@ using namespace lorawan;
 NS_LOG_COMPONENT_DEFINE ("ComplexLorawanNetworkExample");
 
 // Network settings
-int nDevices = 2;
-int nGateways = 1;
-double radius = 1500;
+
+int nGateways = 3;
+double radius = 6000;
 
 double simulationTime = 1000;
 
@@ -54,9 +55,12 @@ bool print = true;
 int main (int argc, char *argv[])
 {
 
-  // for (int i =0 ; i< 100; i++)
+  for (int i =10 ; i< 500; i++)
     {
-
+      std::cout<<"# Devices: "<<i<<std::endl;
+      int nDevices = i;
+      // int nGateways = 1;
+      // double radius = 1500;
 
       CommandLine cmd;
       cmd.AddValue ("nDevices",
@@ -78,11 +82,11 @@ int main (int argc, char *argv[])
     
       // Set up logging
       LogComponentEnable ("ComplexLorawanNetworkExample", LOG_LEVEL_ALL);
-      LogComponentEnableAll (LOG_PREFIX_TIME); 
-      LogComponentEnableAll (LOG_PREFIX_NODE); 
+      // LogComponentEnableAll (LOG_PREFIX_TIME); 
+      // LogComponentEnableAll (LOG_PREFIX_NODE); 
       // LogComponentEnable("LoraChannel", LOG_LEVEL_INFO);
       // LogComponentEnable("LoraPhy", LOG_LEVEL_ALL);
-      LogComponentEnable("EndDeviceLoraPhy", LOG_LEVEL_ALL);
+      // LogComponentEnable("EndDeviceLoraPhy", LOG_LEVEL_ALL);
       // LogComponentEnable("GatewayLoraPhy", LOG_LEVEL_ALL);
       // LogComponentEnable("LoraInterferenceHelper", LOG_LEVEL_ALL);
       // LogComponentEnable("LoraMac", LOG_LEVEL_ALL);

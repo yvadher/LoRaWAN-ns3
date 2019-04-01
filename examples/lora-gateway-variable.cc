@@ -1,3 +1,4 @@
+
 /*
  * This script simulates a complex scenario with multiple gateways and end
  * devices. The metric of interest for this script is the throughput of the
@@ -35,9 +36,9 @@ using namespace lorawan;
 NS_LOG_COMPONENT_DEFINE ("ComplexLorawanNetworkExample");
 
 // Network settings
-int nDevices = 2;
-int nGateways = 1;
-double radius = 1500;
+int nDevices = 1000;
+int nGateways = 5;
+double radius = 5000;
 
 double simulationTime = 1000;
 
@@ -56,7 +57,9 @@ int main (int argc, char *argv[])
 
   // for (int i =0 ; i< 100; i++)
     {
-
+      // int nDevices = 2;
+      // int nGateways = 1;
+      // double radius = 1500;
 
       CommandLine cmd;
       cmd.AddValue ("nDevices",
@@ -78,11 +81,9 @@ int main (int argc, char *argv[])
     
       // Set up logging
       LogComponentEnable ("ComplexLorawanNetworkExample", LOG_LEVEL_ALL);
-      LogComponentEnableAll (LOG_PREFIX_TIME); 
-      LogComponentEnableAll (LOG_PREFIX_NODE); 
       // LogComponentEnable("LoraChannel", LOG_LEVEL_INFO);
       // LogComponentEnable("LoraPhy", LOG_LEVEL_ALL);
-      LogComponentEnable("EndDeviceLoraPhy", LOG_LEVEL_ALL);
+      // LogComponentEnable("EndDeviceLoraPhy", LOG_LEVEL_ALL);
       // LogComponentEnable("GatewayLoraPhy", LOG_LEVEL_ALL);
       // LogComponentEnable("LoraInterferenceHelper", LOG_LEVEL_ALL);
       // LogComponentEnable("LoraMac", LOG_LEVEL_ALL);
