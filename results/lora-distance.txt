@@ -1,0 +1,81 @@
+
+Distance (radius): 1000
+PHY Total: 1539
+PHY Successful: 1530
+PHY Interfered: 9
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+Distance (radius): 2000
+PHY Total: 1512
+PHY Successful: 1509
+PHY Interfered: 3
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+Distance (radius): 3000
+PHY Total: 1506
+PHY Successful: 1500
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+Distance (radius): 4000
+PHY Total: 1476
+PHY Successful: 1473
+PHY Interfered: 3
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+Distance (radius): 5000
+PHY Total: 1509
+PHY Successful: 1509
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+Distance (radius): 6000
+PHY Total: 1482
+PHY Successful: 1482
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+Distance (radius): 7000
+PHY Total: 1518
+PHY Successful: 1473
+PHY Interfered: 45
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+Distance (radius): 8000
+PHY Total: 1506
+PHY Successful: 1419
+PHY Interfered: 87
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+Distance (radius): 9000
+PHY Total: 1476
+PHY Successful: 1368
+PHY Interfered: 108
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+Distance (radius): 10000
+PHY Total: 1518
+PHY Successful: 1143
+PHY Interfered: 72
+PHY No More Receivers: 3
+PHY Under Sensitivity: 300
+PHY Lost Because TX: 0
+

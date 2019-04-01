@@ -1,0 +1,3920 @@
+# Devices: 10
+PHY Total: 54
+PHY Successful: 54
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 11
+PHY Total: 63
+PHY Successful: 63
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 12
+PHY Total: 63
+PHY Successful: 63
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 13
+PHY Total: 63
+PHY Successful: 63
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 14
+PHY Total: 60
+PHY Successful: 60
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 15
+PHY Total: 75
+PHY Successful: 75
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 16
+PHY Total: 78
+PHY Successful: 78
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 17
+PHY Total: 78
+PHY Successful: 78
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 18
+PHY Total: 96
+PHY Successful: 96
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 19
+PHY Total: 90
+PHY Successful: 90
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 20
+PHY Total: 87
+PHY Successful: 87
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 21
+PHY Total: 96
+PHY Successful: 96
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 22
+PHY Total: 93
+PHY Successful: 93
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 23
+PHY Total: 120
+PHY Successful: 120
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 24
+PHY Total: 132
+PHY Successful: 132
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 25
+PHY Total: 132
+PHY Successful: 132
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 26
+PHY Total: 126
+PHY Successful: 126
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 27
+PHY Total: 138
+PHY Successful: 138
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 28
+PHY Total: 141
+PHY Successful: 141
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 29
+PHY Total: 138
+PHY Successful: 138
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 30
+PHY Total: 150
+PHY Successful: 150
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 31
+PHY Total: 153
+PHY Successful: 153
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 32
+PHY Total: 162
+PHY Successful: 162
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 33
+PHY Total: 162
+PHY Successful: 162
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 34
+PHY Total: 174
+PHY Successful: 174
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 35
+PHY Total: 162
+PHY Successful: 162
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 36
+PHY Total: 195
+PHY Successful: 195
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 37
+PHY Total: 171
+PHY Successful: 171
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 38
+PHY Total: 192
+PHY Successful: 186
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 39
+PHY Total: 192
+PHY Successful: 192
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 40
+PHY Total: 228
+PHY Successful: 228
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 41
+PHY Total: 201
+PHY Successful: 201
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 42
+PHY Total: 210
+PHY Successful: 204
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 43
+PHY Total: 207
+PHY Successful: 207
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 44
+PHY Total: 219
+PHY Successful: 219
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 45
+PHY Total: 228
+PHY Successful: 228
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 46
+PHY Total: 243
+PHY Successful: 243
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 47
+PHY Total: 228
+PHY Successful: 228
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 48
+PHY Total: 243
+PHY Successful: 243
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 49
+PHY Total: 240
+PHY Successful: 240
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 50
+PHY Total: 246
+PHY Successful: 246
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 51
+PHY Total: 258
+PHY Successful: 258
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 52
+PHY Total: 252
+PHY Successful: 252
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 53
+PHY Total: 276
+PHY Successful: 276
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 54
+PHY Total: 279
+PHY Successful: 279
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 55
+PHY Total: 249
+PHY Successful: 249
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 56
+PHY Total: 288
+PHY Successful: 288
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 57
+PHY Total: 285
+PHY Successful: 285
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 58
+PHY Total: 291
+PHY Successful: 291
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 59
+PHY Total: 282
+PHY Successful: 282
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 60
+PHY Total: 297
+PHY Successful: 297
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 61
+PHY Total: 324
+PHY Successful: 312
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 62
+PHY Total: 321
+PHY Successful: 309
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 63
+PHY Total: 315
+PHY Successful: 315
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 64
+PHY Total: 309
+PHY Successful: 309
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 65
+PHY Total: 336
+PHY Successful: 330
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 66
+PHY Total: 327
+PHY Successful: 327
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 67
+PHY Total: 330
+PHY Successful: 330
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 68
+PHY Total: 351
+PHY Successful: 351
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 69
+PHY Total: 339
+PHY Successful: 339
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 70
+PHY Total: 351
+PHY Successful: 351
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 71
+PHY Total: 354
+PHY Successful: 354
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 72
+PHY Total: 369
+PHY Successful: 363
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 73
+PHY Total: 366
+PHY Successful: 366
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 74
+PHY Total: 363
+PHY Successful: 363
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 75
+PHY Total: 393
+PHY Successful: 393
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 76
+PHY Total: 378
+PHY Successful: 375
+PHY Interfered: 3
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 77
+PHY Total: 372
+PHY Successful: 372
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 78
+PHY Total: 378
+PHY Successful: 372
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 79
+PHY Total: 399
+PHY Successful: 396
+PHY Interfered: 3
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 80
+PHY Total: 414
+PHY Successful: 414
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 81
+PHY Total: 390
+PHY Successful: 390
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 82
+PHY Total: 414
+PHY Successful: 411
+PHY Interfered: 3
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 83
+PHY Total: 417
+PHY Successful: 405
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 84
+PHY Total: 438
+PHY Successful: 438
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 85
+PHY Total: 414
+PHY Successful: 414
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 86
+PHY Total: 438
+PHY Successful: 438
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 87
+PHY Total: 441
+PHY Successful: 441
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 88
+PHY Total: 438
+PHY Successful: 432
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 89
+PHY Total: 426
+PHY Successful: 426
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 90
+PHY Total: 447
+PHY Successful: 447
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 91
+PHY Total: 453
+PHY Successful: 453
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 92
+PHY Total: 456
+PHY Successful: 456
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 93
+PHY Total: 465
+PHY Successful: 465
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 94
+PHY Total: 474
+PHY Successful: 468
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 95
+PHY Total: 480
+PHY Successful: 480
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 96
+PHY Total: 489
+PHY Successful: 486
+PHY Interfered: 0
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 97
+PHY Total: 489
+PHY Successful: 489
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 98
+PHY Total: 504
+PHY Successful: 504
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 99
+PHY Total: 495
+PHY Successful: 489
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 100
+PHY Total: 504
+PHY Successful: 504
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 101
+PHY Total: 504
+PHY Successful: 504
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 102
+PHY Total: 489
+PHY Successful: 477
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 103
+PHY Total: 522
+PHY Successful: 522
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 104
+PHY Total: 525
+PHY Successful: 525
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 105
+PHY Total: 501
+PHY Successful: 501
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 106
+PHY Total: 537
+PHY Successful: 531
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 107
+PHY Total: 492
+PHY Successful: 492
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 108
+PHY Total: 528
+PHY Successful: 522
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 109
+PHY Total: 552
+PHY Successful: 552
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 110
+PHY Total: 537
+PHY Successful: 510
+PHY Interfered: 24
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 111
+PHY Total: 540
+PHY Successful: 540
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 112
+PHY Total: 549
+PHY Successful: 549
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 113
+PHY Total: 555
+PHY Successful: 552
+PHY Interfered: 3
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 114
+PHY Total: 540
+PHY Successful: 534
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 115
+PHY Total: 555
+PHY Successful: 555
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 116
+PHY Total: 576
+PHY Successful: 570
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 117
+PHY Total: 597
+PHY Successful: 597
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 118
+PHY Total: 594
+PHY Successful: 588
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 119
+PHY Total: 600
+PHY Successful: 594
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 120
+PHY Total: 594
+PHY Successful: 588
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 121
+PHY Total: 597
+PHY Successful: 597
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 122
+PHY Total: 591
+PHY Successful: 585
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 123
+PHY Total: 609
+PHY Successful: 597
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 124
+PHY Total: 621
+PHY Successful: 609
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 125
+PHY Total: 651
+PHY Successful: 651
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 126
+PHY Total: 624
+PHY Successful: 621
+PHY Interfered: 3
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 127
+PHY Total: 636
+PHY Successful: 627
+PHY Interfered: 9
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 128
+PHY Total: 657
+PHY Successful: 657
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 129
+PHY Total: 639
+PHY Successful: 627
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 130
+PHY Total: 624
+PHY Successful: 618
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 131
+PHY Total: 624
+PHY Successful: 609
+PHY Interfered: 15
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 132
+PHY Total: 663
+PHY Successful: 657
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 133
+PHY Total: 654
+PHY Successful: 642
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 134
+PHY Total: 657
+PHY Successful: 651
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 135
+PHY Total: 654
+PHY Successful: 654
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 136
+PHY Total: 675
+PHY Successful: 663
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 137
+PHY Total: 669
+PHY Successful: 669
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 138
+PHY Total: 708
+PHY Successful: 708
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 139
+PHY Total: 660
+PHY Successful: 660
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 140
+PHY Total: 684
+PHY Successful: 684
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 141
+PHY Total: 702
+PHY Successful: 696
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 142
+PHY Total: 696
+PHY Successful: 684
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 143
+PHY Total: 714
+PHY Successful: 714
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 144
+PHY Total: 720
+PHY Successful: 714
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 145
+PHY Total: 708
+PHY Successful: 702
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 146
+PHY Total: 738
+PHY Successful: 726
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 147
+PHY Total: 738
+PHY Successful: 720
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 148
+PHY Total: 735
+PHY Successful: 726
+PHY Interfered: 9
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 149
+PHY Total: 738
+PHY Successful: 738
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 150
+PHY Total: 759
+PHY Successful: 747
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 151
+PHY Total: 750
+PHY Successful: 750
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 152
+PHY Total: 735
+PHY Successful: 729
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 153
+PHY Total: 738
+PHY Successful: 738
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 154
+PHY Total: 789
+PHY Successful: 789
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 155
+PHY Total: 777
+PHY Successful: 777
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 156
+PHY Total: 771
+PHY Successful: 771
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 157
+PHY Total: 783
+PHY Successful: 771
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 158
+PHY Total: 801
+PHY Successful: 801
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 159
+PHY Total: 780
+PHY Successful: 771
+PHY Interfered: 9
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 160
+PHY Total: 813
+PHY Successful: 804
+PHY Interfered: 9
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 161
+PHY Total: 822
+PHY Successful: 813
+PHY Interfered: 9
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 162
+PHY Total: 795
+PHY Successful: 789
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 163
+PHY Total: 810
+PHY Successful: 804
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 164
+PHY Total: 834
+PHY Successful: 816
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 165
+PHY Total: 828
+PHY Successful: 822
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 166
+PHY Total: 834
+PHY Successful: 834
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 167
+PHY Total: 816
+PHY Successful: 792
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 168
+PHY Total: 846
+PHY Successful: 843
+PHY Interfered: 0
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 169
+PHY Total: 861
+PHY Successful: 849
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 170
+PHY Total: 852
+PHY Successful: 846
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 171
+PHY Total: 852
+PHY Successful: 846
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 172
+PHY Total: 864
+PHY Successful: 852
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 173
+PHY Total: 879
+PHY Successful: 873
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 174
+PHY Total: 864
+PHY Successful: 855
+PHY Interfered: 9
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 175
+PHY Total: 837
+PHY Successful: 831
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 176
+PHY Total: 858
+PHY Successful: 852
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 177
+PHY Total: 861
+PHY Successful: 849
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 178
+PHY Total: 909
+PHY Successful: 891
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 179
+PHY Total: 930
+PHY Successful: 912
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 180
+PHY Total: 936
+PHY Successful: 912
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 181
+PHY Total: 900
+PHY Successful: 900
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 182
+PHY Total: 891
+PHY Successful: 885
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 183
+PHY Total: 903
+PHY Successful: 894
+PHY Interfered: 9
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 184
+PHY Total: 960
+PHY Successful: 954
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 185
+PHY Total: 912
+PHY Successful: 909
+PHY Interfered: 3
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 186
+PHY Total: 909
+PHY Successful: 894
+PHY Interfered: 15
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 187
+PHY Total: 933
+PHY Successful: 933
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 188
+PHY Total: 960
+PHY Successful: 960
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 189
+PHY Total: 942
+PHY Successful: 942
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 190
+PHY Total: 936
+PHY Successful: 930
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 191
+PHY Total: 900
+PHY Successful: 888
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 192
+PHY Total: 951
+PHY Successful: 933
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 193
+PHY Total: 993
+PHY Successful: 990
+PHY Interfered: 3
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 194
+PHY Total: 969
+PHY Successful: 942
+PHY Interfered: 24
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 195
+PHY Total: 1008
+PHY Successful: 978
+PHY Interfered: 30
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 196
+PHY Total: 945
+PHY Successful: 912
+PHY Interfered: 30
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 197
+PHY Total: 987
+PHY Successful: 981
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 198
+PHY Total: 1062
+PHY Successful: 1044
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 199
+PHY Total: 978
+PHY Successful: 957
+PHY Interfered: 18
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 200
+PHY Total: 975
+PHY Successful: 969
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 201
+PHY Total: 1014
+PHY Successful: 996
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 202
+PHY Total: 981
+PHY Successful: 966
+PHY Interfered: 12
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 203
+PHY Total: 984
+PHY Successful: 966
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 204
+PHY Total: 1035
+PHY Successful: 1020
+PHY Interfered: 15
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 205
+PHY Total: 999
+PHY Successful: 969
+PHY Interfered: 30
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 206
+PHY Total: 1026
+PHY Successful: 1026
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 207
+PHY Total: 1020
+PHY Successful: 996
+PHY Interfered: 21
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 208
+PHY Total: 1056
+PHY Successful: 1050
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 209
+PHY Total: 1047
+PHY Successful: 1044
+PHY Interfered: 0
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 210
+PHY Total: 1017
+PHY Successful: 1011
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 211
+PHY Total: 1053
+PHY Successful: 1035
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 212
+PHY Total: 1065
+PHY Successful: 1047
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 213
+PHY Total: 1074
+PHY Successful: 1053
+PHY Interfered: 21
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 214
+PHY Total: 1080
+PHY Successful: 1074
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 215
+PHY Total: 1068
+PHY Successful: 1053
+PHY Interfered: 15
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 216
+PHY Total: 1089
+PHY Successful: 1080
+PHY Interfered: 9
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 217
+PHY Total: 1113
+PHY Successful: 1095
+PHY Interfered: 15
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 218
+PHY Total: 1095
+PHY Successful: 1083
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 219
+PHY Total: 1101
+PHY Successful: 1089
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 220
+PHY Total: 1146
+PHY Successful: 1119
+PHY Interfered: 27
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 221
+PHY Total: 1125
+PHY Successful: 1104
+PHY Interfered: 18
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 222
+PHY Total: 1116
+PHY Successful: 1101
+PHY Interfered: 12
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 223
+PHY Total: 1125
+PHY Successful: 1107
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 224
+PHY Total: 1104
+PHY Successful: 1101
+PHY Interfered: 3
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 225
+PHY Total: 1107
+PHY Successful: 1086
+PHY Interfered: 18
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 226
+PHY Total: 1152
+PHY Successful: 1134
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 227
+PHY Total: 1158
+PHY Successful: 1152
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 228
+PHY Total: 1137
+PHY Successful: 1131
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 229
+PHY Total: 1140
+PHY Successful: 1140
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 230
+PHY Total: 1149
+PHY Successful: 1128
+PHY Interfered: 21
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 231
+PHY Total: 1167
+PHY Successful: 1158
+PHY Interfered: 9
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 232
+PHY Total: 1176
+PHY Successful: 1170
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 233
+PHY Total: 1167
+PHY Successful: 1122
+PHY Interfered: 42
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 234
+PHY Total: 1161
+PHY Successful: 1143
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 235
+PHY Total: 1128
+PHY Successful: 1095
+PHY Interfered: 33
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 236
+PHY Total: 1167
+PHY Successful: 1149
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 237
+PHY Total: 1140
+PHY Successful: 1140
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 238
+PHY Total: 1206
+PHY Successful: 1188
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 239
+PHY Total: 1161
+PHY Successful: 1128
+PHY Interfered: 30
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 240
+PHY Total: 1200
+PHY Successful: 1164
+PHY Interfered: 30
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 241
+PHY Total: 1224
+PHY Successful: 1206
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 242
+PHY Total: 1212
+PHY Successful: 1191
+PHY Interfered: 21
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 243
+PHY Total: 1224
+PHY Successful: 1191
+PHY Interfered: 33
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 244
+PHY Total: 1233
+PHY Successful: 1227
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 245
+PHY Total: 1242
+PHY Successful: 1218
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 246
+PHY Total: 1230
+PHY Successful: 1206
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 247
+PHY Total: 1239
+PHY Successful: 1218
+PHY Interfered: 21
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 248
+PHY Total: 1245
+PHY Successful: 1230
+PHY Interfered: 12
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 249
+PHY Total: 1185
+PHY Successful: 1161
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 250
+PHY Total: 1239
+PHY Successful: 1224
+PHY Interfered: 15
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 251
+PHY Total: 1251
+PHY Successful: 1227
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 252
+PHY Total: 1248
+PHY Successful: 1218
+PHY Interfered: 30
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 253
+PHY Total: 1263
+PHY Successful: 1245
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 254
+PHY Total: 1239
+PHY Successful: 1203
+PHY Interfered: 30
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 255
+PHY Total: 1230
+PHY Successful: 1218
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 256
+PHY Total: 1308
+PHY Successful: 1251
+PHY Interfered: 54
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 257
+PHY Total: 1275
+PHY Successful: 1263
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 258
+PHY Total: 1254
+PHY Successful: 1245
+PHY Interfered: 9
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 259
+PHY Total: 1293
+PHY Successful: 1269
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 260
+PHY Total: 1311
+PHY Successful: 1305
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 261
+PHY Total: 1293
+PHY Successful: 1272
+PHY Interfered: 18
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 262
+PHY Total: 1368
+PHY Successful: 1335
+PHY Interfered: 30
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 263
+PHY Total: 1293
+PHY Successful: 1284
+PHY Interfered: 9
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 264
+PHY Total: 1329
+PHY Successful: 1326
+PHY Interfered: 0
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 265
+PHY Total: 1344
+PHY Successful: 1299
+PHY Interfered: 42
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 266
+PHY Total: 1317
+PHY Successful: 1311
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 267
+PHY Total: 1338
+PHY Successful: 1326
+PHY Interfered: 9
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 268
+PHY Total: 1374
+PHY Successful: 1347
+PHY Interfered: 27
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 269
+PHY Total: 1347
+PHY Successful: 1317
+PHY Interfered: 27
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 270
+PHY Total: 1365
+PHY Successful: 1350
+PHY Interfered: 15
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 271
+PHY Total: 1335
+PHY Successful: 1332
+PHY Interfered: 0
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 272
+PHY Total: 1326
+PHY Successful: 1314
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 273
+PHY Total: 1386
+PHY Successful: 1374
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 274
+PHY Total: 1347
+PHY Successful: 1326
+PHY Interfered: 18
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 275
+PHY Total: 1386
+PHY Successful: 1386
+PHY Interfered: 0
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 276
+PHY Total: 1371
+PHY Successful: 1356
+PHY Interfered: 12
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 277
+PHY Total: 1362
+PHY Successful: 1359
+PHY Interfered: 3
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 278
+PHY Total: 1374
+PHY Successful: 1356
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 279
+PHY Total: 1419
+PHY Successful: 1407
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 280
+PHY Total: 1398
+PHY Successful: 1362
+PHY Interfered: 36
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 281
+PHY Total: 1377
+PHY Successful: 1344
+PHY Interfered: 30
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 282
+PHY Total: 1428
+PHY Successful: 1407
+PHY Interfered: 18
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 283
+PHY Total: 1410
+PHY Successful: 1389
+PHY Interfered: 21
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 284
+PHY Total: 1452
+PHY Successful: 1434
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 285
+PHY Total: 1422
+PHY Successful: 1410
+PHY Interfered: 9
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 286
+PHY Total: 1422
+PHY Successful: 1383
+PHY Interfered: 39
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 287
+PHY Total: 1431
+PHY Successful: 1407
+PHY Interfered: 21
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 288
+PHY Total: 1413
+PHY Successful: 1398
+PHY Interfered: 15
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 289
+PHY Total: 1452
+PHY Successful: 1416
+PHY Interfered: 33
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 290
+PHY Total: 1413
+PHY Successful: 1407
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 291
+PHY Total: 1443
+PHY Successful: 1404
+PHY Interfered: 39
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 292
+PHY Total: 1470
+PHY Successful: 1446
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 293
+PHY Total: 1476
+PHY Successful: 1449
+PHY Interfered: 27
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 294
+PHY Total: 1458
+PHY Successful: 1416
+PHY Interfered: 39
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 295
+PHY Total: 1476
+PHY Successful: 1458
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 296
+PHY Total: 1455
+PHY Successful: 1425
+PHY Interfered: 30
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 297
+PHY Total: 1497
+PHY Successful: 1464
+PHY Interfered: 33
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 298
+PHY Total: 1527
+PHY Successful: 1503
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 299
+PHY Total: 1503
+PHY Successful: 1476
+PHY Interfered: 27
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 300
+PHY Total: 1524
+PHY Successful: 1488
+PHY Interfered: 27
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 301
+PHY Total: 1548
+PHY Successful: 1500
+PHY Interfered: 48
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 302
+PHY Total: 1527
+PHY Successful: 1512
+PHY Interfered: 15
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 303
+PHY Total: 1515
+PHY Successful: 1488
+PHY Interfered: 27
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 304
+PHY Total: 1539
+PHY Successful: 1515
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 305
+PHY Total: 1551
+PHY Successful: 1512
+PHY Interfered: 39
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 306
+PHY Total: 1551
+PHY Successful: 1503
+PHY Interfered: 48
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 307
+PHY Total: 1569
+PHY Successful: 1563
+PHY Interfered: 6
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 308
+PHY Total: 1515
+PHY Successful: 1467
+PHY Interfered: 42
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 309
+PHY Total: 1539
+PHY Successful: 1455
+PHY Interfered: 84
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 310
+PHY Total: 1518
+PHY Successful: 1464
+PHY Interfered: 54
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 311
+PHY Total: 1581
+PHY Successful: 1551
+PHY Interfered: 30
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 312
+PHY Total: 1635
+PHY Successful: 1590
+PHY Interfered: 42
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 313
+PHY Total: 1530
+PHY Successful: 1485
+PHY Interfered: 42
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 314
+PHY Total: 1572
+PHY Successful: 1515
+PHY Interfered: 57
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 315
+PHY Total: 1572
+PHY Successful: 1545
+PHY Interfered: 27
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 316
+PHY Total: 1560
+PHY Successful: 1545
+PHY Interfered: 12
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 317
+PHY Total: 1548
+PHY Successful: 1530
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 318
+PHY Total: 1572
+PHY Successful: 1533
+PHY Interfered: 39
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 319
+PHY Total: 1581
+PHY Successful: 1527
+PHY Interfered: 51
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 320
+PHY Total: 1596
+PHY Successful: 1563
+PHY Interfered: 33
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 321
+PHY Total: 1563
+PHY Successful: 1518
+PHY Interfered: 45
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 322
+PHY Total: 1614
+PHY Successful: 1545
+PHY Interfered: 69
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 323
+PHY Total: 1620
+PHY Successful: 1599
+PHY Interfered: 21
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 324
+PHY Total: 1641
+PHY Successful: 1605
+PHY Interfered: 36
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 325
+PHY Total: 1635
+PHY Successful: 1599
+PHY Interfered: 30
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 326
+PHY Total: 1656
+PHY Successful: 1614
+PHY Interfered: 39
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 327
+PHY Total: 1635
+PHY Successful: 1605
+PHY Interfered: 27
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 328
+PHY Total: 1632
+PHY Successful: 1605
+PHY Interfered: 21
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 329
+PHY Total: 1620
+PHY Successful: 1596
+PHY Interfered: 21
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 330
+PHY Total: 1620
+PHY Successful: 1590
+PHY Interfered: 27
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 331
+PHY Total: 1659
+PHY Successful: 1647
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 332
+PHY Total: 1680
+PHY Successful: 1629
+PHY Interfered: 48
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 333
+PHY Total: 1689
+PHY Successful: 1668
+PHY Interfered: 21
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 334
+PHY Total: 1704
+PHY Successful: 1656
+PHY Interfered: 48
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 335
+PHY Total: 1701
+PHY Successful: 1677
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 336
+PHY Total: 1671
+PHY Successful: 1650
+PHY Interfered: 21
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 337
+PHY Total: 1701
+PHY Successful: 1656
+PHY Interfered: 45
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 338
+PHY Total: 1695
+PHY Successful: 1656
+PHY Interfered: 39
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 339
+PHY Total: 1689
+PHY Successful: 1647
+PHY Interfered: 39
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 340
+PHY Total: 1701
+PHY Successful: 1680
+PHY Interfered: 21
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 341
+PHY Total: 1692
+PHY Successful: 1656
+PHY Interfered: 36
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 342
+PHY Total: 1710
+PHY Successful: 1668
+PHY Interfered: 42
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 343
+PHY Total: 1701
+PHY Successful: 1680
+PHY Interfered: 21
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 344
+PHY Total: 1800
+PHY Successful: 1758
+PHY Interfered: 39
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 345
+PHY Total: 1734
+PHY Successful: 1716
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 346
+PHY Total: 1713
+PHY Successful: 1680
+PHY Interfered: 33
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 347
+PHY Total: 1725
+PHY Successful: 1701
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 348
+PHY Total: 1737
+PHY Successful: 1677
+PHY Interfered: 60
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 349
+PHY Total: 1734
+PHY Successful: 1698
+PHY Interfered: 36
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 350
+PHY Total: 1746
+PHY Successful: 1677
+PHY Interfered: 69
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 351
+PHY Total: 1758
+PHY Successful: 1713
+PHY Interfered: 45
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 352
+PHY Total: 1755
+PHY Successful: 1713
+PHY Interfered: 42
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 353
+PHY Total: 1758
+PHY Successful: 1746
+PHY Interfered: 12
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 354
+PHY Total: 1749
+PHY Successful: 1707
+PHY Interfered: 42
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 355
+PHY Total: 1788
+PHY Successful: 1734
+PHY Interfered: 54
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 356
+PHY Total: 1749
+PHY Successful: 1680
+PHY Interfered: 66
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 357
+PHY Total: 1794
+PHY Successful: 1752
+PHY Interfered: 42
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 358
+PHY Total: 1803
+PHY Successful: 1740
+PHY Interfered: 60
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 359
+PHY Total: 1770
+PHY Successful: 1731
+PHY Interfered: 36
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 360
+PHY Total: 1776
+PHY Successful: 1758
+PHY Interfered: 18
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 361
+PHY Total: 1791
+PHY Successful: 1752
+PHY Interfered: 36
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 362
+PHY Total: 1842
+PHY Successful: 1806
+PHY Interfered: 36
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 363
+PHY Total: 1827
+PHY Successful: 1785
+PHY Interfered: 42
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 364
+PHY Total: 1836
+PHY Successful: 1764
+PHY Interfered: 63
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 365
+PHY Total: 1815
+PHY Successful: 1779
+PHY Interfered: 30
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 366
+PHY Total: 1827
+PHY Successful: 1791
+PHY Interfered: 33
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 367
+PHY Total: 1821
+PHY Successful: 1797
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 368
+PHY Total: 1824
+PHY Successful: 1764
+PHY Interfered: 60
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 369
+PHY Total: 1866
+PHY Successful: 1839
+PHY Interfered: 27
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 370
+PHY Total: 1857
+PHY Successful: 1815
+PHY Interfered: 42
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 371
+PHY Total: 1806
+PHY Successful: 1767
+PHY Interfered: 39
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 372
+PHY Total: 1815
+PHY Successful: 1761
+PHY Interfered: 54
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 373
+PHY Total: 1851
+PHY Successful: 1764
+PHY Interfered: 81
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 374
+PHY Total: 1836
+PHY Successful: 1803
+PHY Interfered: 33
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 375
+PHY Total: 1857
+PHY Successful: 1818
+PHY Interfered: 39
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 376
+PHY Total: 1893
+PHY Successful: 1803
+PHY Interfered: 87
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 377
+PHY Total: 1878
+PHY Successful: 1788
+PHY Interfered: 90
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 378
+PHY Total: 1893
+PHY Successful: 1842
+PHY Interfered: 45
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 379
+PHY Total: 1911
+PHY Successful: 1824
+PHY Interfered: 81
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 380
+PHY Total: 1914
+PHY Successful: 1857
+PHY Interfered: 54
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 381
+PHY Total: 1884
+PHY Successful: 1854
+PHY Interfered: 30
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 382
+PHY Total: 1902
+PHY Successful: 1836
+PHY Interfered: 63
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 383
+PHY Total: 1956
+PHY Successful: 1902
+PHY Interfered: 51
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 384
+PHY Total: 1911
+PHY Successful: 1842
+PHY Interfered: 69
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 385
+PHY Total: 1914
+PHY Successful: 1875
+PHY Interfered: 39
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 386
+PHY Total: 1941
+PHY Successful: 1860
+PHY Interfered: 81
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 387
+PHY Total: 1905
+PHY Successful: 1863
+PHY Interfered: 39
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 388
+PHY Total: 1926
+PHY Successful: 1863
+PHY Interfered: 63
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 389
+PHY Total: 1938
+PHY Successful: 1863
+PHY Interfered: 69
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 390
+PHY Total: 1953
+PHY Successful: 1908
+PHY Interfered: 42
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 391
+PHY Total: 1959
+PHY Successful: 1887
+PHY Interfered: 66
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 392
+PHY Total: 1977
+PHY Successful: 1902
+PHY Interfered: 72
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 393
+PHY Total: 1923
+PHY Successful: 1863
+PHY Interfered: 51
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 394
+PHY Total: 1965
+PHY Successful: 1923
+PHY Interfered: 39
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 395
+PHY Total: 1998
+PHY Successful: 1923
+PHY Interfered: 72
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 396
+PHY Total: 2007
+PHY Successful: 1920
+PHY Interfered: 81
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 397
+PHY Total: 2013
+PHY Successful: 1956
+PHY Interfered: 54
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 398
+PHY Total: 1953
+PHY Successful: 1887
+PHY Interfered: 63
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 399
+PHY Total: 1980
+PHY Successful: 1887
+PHY Interfered: 84
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 400
+PHY Total: 2055
+PHY Successful: 1986
+PHY Interfered: 63
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 401
+PHY Total: 2040
+PHY Successful: 2007
+PHY Interfered: 27
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 402
+PHY Total: 2001
+PHY Successful: 1959
+PHY Interfered: 39
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 403
+PHY Total: 2043
+PHY Successful: 1998
+PHY Interfered: 42
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 404
+PHY Total: 1992
+PHY Successful: 1932
+PHY Interfered: 51
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 405
+PHY Total: 2031
+PHY Successful: 1971
+PHY Interfered: 54
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 406
+PHY Total: 2019
+PHY Successful: 1980
+PHY Interfered: 36
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 407
+PHY Total: 2055
+PHY Successful: 2007
+PHY Interfered: 48
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 408
+PHY Total: 2037
+PHY Successful: 1983
+PHY Interfered: 54
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 409
+PHY Total: 2073
+PHY Successful: 2016
+PHY Interfered: 51
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 410
+PHY Total: 2082
+PHY Successful: 1989
+PHY Interfered: 93
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 411
+PHY Total: 2028
+PHY Successful: 1953
+PHY Interfered: 72
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 412
+PHY Total: 2070
+PHY Successful: 1989
+PHY Interfered: 78
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 413
+PHY Total: 2073
+PHY Successful: 2031
+PHY Interfered: 42
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 414
+PHY Total: 2034
+PHY Successful: 1977
+PHY Interfered: 57
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 415
+PHY Total: 2103
+PHY Successful: 2025
+PHY Interfered: 78
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 416
+PHY Total: 2094
+PHY Successful: 2034
+PHY Interfered: 51
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 417
+PHY Total: 2055
+PHY Successful: 1971
+PHY Interfered: 81
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 418
+PHY Total: 2070
+PHY Successful: 2034
+PHY Interfered: 36
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 419
+PHY Total: 2082
+PHY Successful: 2010
+PHY Interfered: 66
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 420
+PHY Total: 2103
+PHY Successful: 2055
+PHY Interfered: 45
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 421
+PHY Total: 2139
+PHY Successful: 2100
+PHY Interfered: 30
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 422
+PHY Total: 2121
+PHY Successful: 2052
+PHY Interfered: 66
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 423
+PHY Total: 2109
+PHY Successful: 2034
+PHY Interfered: 72
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 424
+PHY Total: 2079
+PHY Successful: 2052
+PHY Interfered: 27
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 425
+PHY Total: 2106
+PHY Successful: 2031
+PHY Interfered: 72
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 426
+PHY Total: 2121
+PHY Successful: 2046
+PHY Interfered: 66
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 427
+PHY Total: 2106
+PHY Successful: 2025
+PHY Interfered: 75
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 428
+PHY Total: 2109
+PHY Successful: 2034
+PHY Interfered: 72
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 429
+PHY Total: 2115
+PHY Successful: 2058
+PHY Interfered: 57
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 430
+PHY Total: 2133
+PHY Successful: 2070
+PHY Interfered: 54
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 431
+PHY Total: 2193
+PHY Successful: 2139
+PHY Interfered: 51
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 432
+PHY Total: 2103
+PHY Successful: 2061
+PHY Interfered: 39
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 433
+PHY Total: 2187
+PHY Successful: 2103
+PHY Interfered: 81
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 434
+PHY Total: 2133
+PHY Successful: 2103
+PHY Interfered: 30
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 435
+PHY Total: 2202
+PHY Successful: 2124
+PHY Interfered: 75
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 436
+PHY Total: 2166
+PHY Successful: 2097
+PHY Interfered: 60
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 437
+PHY Total: 2187
+PHY Successful: 2103
+PHY Interfered: 81
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 438
+PHY Total: 2178
+PHY Successful: 2097
+PHY Interfered: 81
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 439
+PHY Total: 2169
+PHY Successful: 2103
+PHY Interfered: 66
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 440
+PHY Total: 2193
+PHY Successful: 2124
+PHY Interfered: 66
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 441
+PHY Total: 2223
+PHY Successful: 2151
+PHY Interfered: 66
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 442
+PHY Total: 2172
+PHY Successful: 2148
+PHY Interfered: 24
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 443
+PHY Total: 2271
+PHY Successful: 2238
+PHY Interfered: 33
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 444
+PHY Total: 2241
+PHY Successful: 2163
+PHY Interfered: 72
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 445
+PHY Total: 2208
+PHY Successful: 2112
+PHY Interfered: 96
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 446
+PHY Total: 2187
+PHY Successful: 2094
+PHY Interfered: 87
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 447
+PHY Total: 2235
+PHY Successful: 2184
+PHY Interfered: 45
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 448
+PHY Total: 2229
+PHY Successful: 2175
+PHY Interfered: 51
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 449
+PHY Total: 2247
+PHY Successful: 2181
+PHY Interfered: 63
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 450
+PHY Total: 2265
+PHY Successful: 2226
+PHY Interfered: 39
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 451
+PHY Total: 2211
+PHY Successful: 2148
+PHY Interfered: 60
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 452
+PHY Total: 2223
+PHY Successful: 2133
+PHY Interfered: 78
+PHY No More Receivers: 12
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 453
+PHY Total: 2241
+PHY Successful: 2187
+PHY Interfered: 51
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 454
+PHY Total: 2271
+PHY Successful: 2223
+PHY Interfered: 45
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 455
+PHY Total: 2289
+PHY Successful: 2184
+PHY Interfered: 99
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 456
+PHY Total: 2286
+PHY Successful: 2229
+PHY Interfered: 57
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 457
+PHY Total: 2268
+PHY Successful: 2193
+PHY Interfered: 69
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 458
+PHY Total: 2247
+PHY Successful: 2214
+PHY Interfered: 30
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 459
+PHY Total: 2310
+PHY Successful: 2235
+PHY Interfered: 69
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 460
+PHY Total: 2313
+PHY Successful: 2259
+PHY Interfered: 54
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 461
+PHY Total: 2268
+PHY Successful: 2205
+PHY Interfered: 60
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 462
+PHY Total: 2349
+PHY Successful: 2274
+PHY Interfered: 72
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 463
+PHY Total: 2337
+PHY Successful: 2274
+PHY Interfered: 60
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 464
+PHY Total: 2370
+PHY Successful: 2253
+PHY Interfered: 105
+PHY No More Receivers: 12
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 465
+PHY Total: 2319
+PHY Successful: 2244
+PHY Interfered: 75
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 466
+PHY Total: 2328
+PHY Successful: 2286
+PHY Interfered: 39
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 467
+PHY Total: 2301
+PHY Successful: 2250
+PHY Interfered: 48
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 468
+PHY Total: 2385
+PHY Successful: 2295
+PHY Interfered: 87
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 469
+PHY Total: 2379
+PHY Successful: 2271
+PHY Interfered: 102
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 470
+PHY Total: 2322
+PHY Successful: 2256
+PHY Interfered: 57
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 471
+PHY Total: 2313
+PHY Successful: 2247
+PHY Interfered: 57
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 472
+PHY Total: 2349
+PHY Successful: 2253
+PHY Interfered: 93
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 473
+PHY Total: 2337
+PHY Successful: 2277
+PHY Interfered: 57
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 474
+PHY Total: 2364
+PHY Successful: 2241
+PHY Interfered: 117
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 475
+PHY Total: 2355
+PHY Successful: 2277
+PHY Interfered: 75
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 476
+PHY Total: 2358
+PHY Successful: 2268
+PHY Interfered: 84
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 477
+PHY Total: 2406
+PHY Successful: 2319
+PHY Interfered: 87
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 478
+PHY Total: 2394
+PHY Successful: 2310
+PHY Interfered: 81
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 479
+PHY Total: 2328
+PHY Successful: 2259
+PHY Interfered: 69
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 480
+PHY Total: 2376
+PHY Successful: 2271
+PHY Interfered: 102
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 481
+PHY Total: 2424
+PHY Successful: 2349
+PHY Interfered: 72
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 482
+PHY Total: 2397
+PHY Successful: 2349
+PHY Interfered: 48
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 483
+PHY Total: 2430
+PHY Successful: 2358
+PHY Interfered: 63
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 484
+PHY Total: 2406
+PHY Successful: 2361
+PHY Interfered: 45
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 485
+PHY Total: 2457
+PHY Successful: 2367
+PHY Interfered: 87
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 486
+PHY Total: 2460
+PHY Successful: 2367
+PHY Interfered: 93
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 487
+PHY Total: 2436
+PHY Successful: 2376
+PHY Interfered: 60
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 488
+PHY Total: 2412
+PHY Successful: 2337
+PHY Interfered: 69
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 489
+PHY Total: 2442
+PHY Successful: 2370
+PHY Interfered: 63
+PHY No More Receivers: 9
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 490
+PHY Total: 2415
+PHY Successful: 2331
+PHY Interfered: 78
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 491
+PHY Total: 2472
+PHY Successful: 2409
+PHY Interfered: 63
+PHY No More Receivers: 0
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 492
+PHY Total: 2421
+PHY Successful: 2349
+PHY Interfered: 66
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 493
+PHY Total: 2520
+PHY Successful: 2436
+PHY Interfered: 81
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 494
+PHY Total: 2457
+PHY Successful: 2364
+PHY Interfered: 87
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 495
+PHY Total: 2460
+PHY Successful: 2328
+PHY Interfered: 129
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 496
+PHY Total: 2541
+PHY Successful: 2460
+PHY Interfered: 75
+PHY No More Receivers: 6
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 497
+PHY Total: 2502
+PHY Successful: 2472
+PHY Interfered: 27
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 498
+PHY Total: 2493
+PHY Successful: 2466
+PHY Interfered: 24
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
+# Devices: 499
+PHY Total: 2475
+PHY Successful: 2367
+PHY Interfered: 105
+PHY No More Receivers: 3
+PHY Under Sensitivity: 0
+PHY Lost Because TX: 0
+
